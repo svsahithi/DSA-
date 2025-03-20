@@ -32,8 +32,8 @@ class Solution {
 
 
 
-Optimized Approach 
-------------------
+Optimized Space Approach 
+------------------------
 Using Sorting : time complexity : O(nlogn), space complexity : O(1)
 
 class Solution {
