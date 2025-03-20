@@ -54,3 +54,4 @@ Learnings
 
 1.Arrays.sort(arry_name) - used to sort the arrays
 2.if(!dup.add(nums[i]) - shortcut to check whether we are the array having duplicates or not if dup.app(nums[i]) is true that means no duplicates
+3. 1st approach is best as speed and second is best for space 
